@@ -39,7 +39,7 @@ export function Navbar() {
               <Sun className="w-6 h-6 text-primary-foreground" />
             </div>
             <span className="text-xl font-bold text-foreground">
-              Solar<span className="text-gradient-solar">Bright</span>
+              Matrix<span className="text-gradient-solar">Technologies</span>
             </span>
           </a>
 

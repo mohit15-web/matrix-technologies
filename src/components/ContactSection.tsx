@@ -70,7 +70,7 @@ export function ContactSection() {
                 <div>
                   <p className="text-sm text-muted-foreground">Email Us</p>
                   <p className="font-semibold text-foreground">
-                    hello@solarbright.in
+                    hello@MatrixTechnologies.in
                   </p>
                 </div>
               </div>

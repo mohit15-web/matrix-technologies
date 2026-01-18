@@ -41,7 +41,7 @@ export function Footer() {
                 <Sun className="w-6 h-6 text-primary-foreground" />
               </div>
               <span className="text-xl font-bold">
-                Solar<span className="text-solar-amber">Bright</span>
+                Matrix<span className="text-solar-amber">Technologies</span>
               </span>
             </a>
             <p className="text-primary-foreground/70 mb-6 max-w-sm">
@@ -118,7 +118,7 @@ export function Footer() {
         <div className="border-t border-primary-foreground/10 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-primary-foreground/60">
-              © {new Date().getFullYear()} SolarBright. All rights reserved.
+              © {new Date().getFullYear()} MatrixTechnologies. All rights reserved.
             </p>
             <div className="flex gap-6">
               <a

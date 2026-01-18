@@ -56,7 +56,7 @@ export function WhyUsSection() {
             Why Choose Us
           </p>
           <h2 className="text-3xl md:text-4xl font-bold mb-4">
-            The SolarBright Advantage
+            The MatrixTechnologies Advantage
           </h2>
           <p className="text-lg text-primary-foreground/70 max-w-2xl mx-auto">
             We combine cutting-edge technology with exceptional service to

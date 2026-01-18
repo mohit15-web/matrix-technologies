@@ -15,7 +15,7 @@ export function AboutSection() {
             </h2>
 
             <p className="text-lg text-muted-foreground mb-6">
-              At SolarBright, we believe everyone deserves access to clean,
+              At MatrixTechnologies, we believe everyone deserves access to clean,
               affordable energy. Since 2015, we've been on a mission to make
               solar adoption seamless for homes and businesses across India.
             </p>
